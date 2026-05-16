@@ -14,7 +14,7 @@ Built a sentiment classifier on the Twitter US Airline Sentiment corpus, a publi
 
 ## Code access
 
-Source code, the full technical report, and trained model artefacts live in a private repository. Happy to share full access with recruiters or hiring managers on request.
+Source code and the full technical report live in a private repository. Happy to share full access with recruiters or hiring managers on request.
 
 ---
 
